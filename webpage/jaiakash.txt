@@ -1,0 +1,38 @@
+<DOCTYPE! html>
+<head>
+<title> Sample webpage </title>
+<link rel = "stylesheet" href = "css/style.css" />
+</head>
+<body>
+<Div class= "you">
+<img src = "images/vice.png" />
+<ul>
+<li>HOME</li>
+<li>GENRES</li>
+<li>COUNTRY</li>
+<li>MOVIES</li>
+<li>TV-SERIES</li>
+<li>TOP IMDB</li>
+
+</Div>
+<Div class ="her">
+<img src ="images/vice.png"  />
+</Div>
+<Div class = "saw">
+<Button>Search Here To Have a Movie</Buttton>
+</Div>
+<Div class = "seen">
+<h2>Amazon prime - Watch Free HD Movies and TV Series Online</h2>
+<p>
+
+If you can't afford to pay for streaming services to watch your favorite shows and movies, or perhaps you think it's not worth paying because you don't use them often, we have an alternative for you. Many free, unauthorized sites stream movies and shows for free. However, they are not very safe and can expose your data or put your devices at risk of catching viruses.
+
+Up until recently, it was difficult to find a decent yet free streaming site. Now, courtesy of Soap2day, you can stream the content you wish to consume today – for free!</p> 
+</Div>
+<Div class = "how">
+<h1>Here a few more things you should know about Amazon Prime:</h1>
+<p> you to save money and still have a good time. The platform was launched in 2018 by an unknown entity, but it has grown in popularity fairly quickly.</p>
+</Div>
+
+</body>
+</html>
